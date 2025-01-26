@@ -118,15 +118,3 @@
 
 ---
 
-## Cost Estimate
-
-### Factors
-1. **Development Time**:
-   - Core Features: 40-80 hours.
-   - Additional Games or Features: 10-20 hours each.
-2. **Maintenance**:
-   - Include bug fixes or charge separately.
-3. **Hourly Rate**: Depends on developer’s experience and location.
-
----
-
